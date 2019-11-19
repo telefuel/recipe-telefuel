@@ -1,0 +1,15 @@
+{
+  "id": "telefuel",
+  "name": "Telefuel",
+  "version": "1.0.0",
+  "description": "Telefuel",
+  "main": "index.js",
+  "author": "Matt Nguyen <matt@telefuel.com>",
+  "license": "MIT",
+  "repository": "https://github.com/telefuel/recipe-telefuel",
+  "config": {
+    "serviceURL": "https://telefuel.com/signin",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
